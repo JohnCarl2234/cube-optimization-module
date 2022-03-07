@@ -23,7 +23,7 @@ Module Requirements:
      
      -Exynos based device
 
-#Instructions
+# Instructions #
      
      - Flash only in Magisk then Reboot
      - To modify the EnhancedShield and ZRAM disk size just go to Android Folder using any file manager.
