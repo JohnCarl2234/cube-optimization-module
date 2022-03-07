@@ -1,0 +1,8 @@
+id=cube_cdn-raine
+name=Cube Memory Management Optimization
+version=v0.1.000 (Initial release)
+versionCode=1
+author=John Carl Acosta
+description=Memory Management Optimization Module for Exynos 7885 based chipsets, To modify the ZRam Disk Size and EnhancedShield just go to Android folder read the (instructions in Github on how to modify the mentioned files). For Bug Reports PM me in Telegram @rei_ryota.
+
+
